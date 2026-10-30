@@ -1,17 +1,15 @@
-
-/* Change the style of the page */
 body {
-    background-color: lightgray;
+    background-image: url("IMG_9842.PNG");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
     font-family: Arial;
-}
-
-/* Change the style of headings */
-h1 {
-    color: darkgreen;
-}
-
-/* Change the layout of the page */
-body {
     margin: 20px;
     padding: 10px;
+}
+
+h1 {
+    color: darkgreen;
 }
