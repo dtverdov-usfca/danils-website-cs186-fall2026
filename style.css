@@ -1,0 +1,17 @@
+
+/* Change the style of the page */
+body {
+    background-color: lightgray;
+    font-family: Arial;
+}
+
+/* Change the style of headings */
+h1 {
+    color: darkgreen;
+}
+
+/* Change the layout of the page */
+body {
+    margin: 20px;
+    padding: 10px;
+}
